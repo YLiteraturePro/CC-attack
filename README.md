@@ -38,3 +38,7 @@
 
     python3 cc.py
     
+    ./goldeneye.py http://baidu.com
+    
+    ./goldeneye.py www.baidu.com/ -s 300 -w 300
+    
